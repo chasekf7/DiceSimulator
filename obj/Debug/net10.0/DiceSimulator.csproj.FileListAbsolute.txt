@@ -1,0 +1,14 @@
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/bin/Debug/net10.0/DiceSimulator
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/bin/Debug/net10.0/DiceSimulator.deps.json
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/bin/Debug/net10.0/DiceSimulator.runtimeconfig.json
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/bin/Debug/net10.0/DiceSimulator.dll
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/bin/Debug/net10.0/DiceSimulator.pdb
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.AssemblyInfoInputs.cache
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.AssemblyInfo.cs
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.csproj.CoreCompileInputs.cache
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.dll
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/refint/DiceSimulator.dll
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.pdb
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/DiceSimulator.genruntimeconfig.cache
+/Users/chasefisher/DiceRollingSimulator/DiceSimulator/obj/Debug/net10.0/ref/DiceSimulator.dll
